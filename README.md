@@ -17,7 +17,7 @@
 
 * [基于 React+Vite 的毛坯房](https://github.com/pandaoh/react-view)
 * [基于 Vue3 的管理端](https://github.com/pandaoh/vue-admin)
-* [基于 React+Electron+Vite 的前端大型模块化项目模板](https://github.com/pandaoh/react_micro_web)
+* [基于 React+Electron+Vite 的前端大型模块化项目模板](https://github.com/biugle/web_base)
 * [基于 Docsify 的前端文档工具 Bio](https://github.com/pandaoh/bio-docsify)
 * [Flutter 开发模板](https://github.com/pandaoh/flutter_base)
 
