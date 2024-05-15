@@ -1,5 +1,12 @@
 ## 工具
 
+* [Poe AI](https://poe.com)
+* [AI 搜索](https://metaso.cn/)
+* [emojiall 在线](https://www.emojiall.com/zh-hans)
+* [测网速](https://myplugin.speedtest.cn/)
+* [代码字体自定义](https://monaspace.githubnext.com/)
+* [网道前端学习文档](https://wangdoc.com/)
+* [Deep 翻译](https://www.deepl.com/)
 * [前端工坊](https://www.javascript.fun/)
 * [各图标库查询 XIcons](https://www.xicons.org/#/zh-CN)
 * [ShareIcon](https://www.shareicon.net/)
@@ -12,25 +19,27 @@
 * [MockJS](https://github.com/nuysoft/Mock)
 * [EasyMock](https://github.com/easy-mock/easy-mock)
 * [JSON Server](https://github.com/easy-mock/easy-mock)
+* [表格格式转换](https://tableconvert.com/)
+* [JSON 工具](https://www.json.cn)
 
 ## 开发模板
 
-* [基于 React+Vite 的毛坯房](https://github.com/pandaoh/react-view)
-* [基于 Vue3 的管理端](https://github.com/pandaoh/vue-admin)
-* [基于 React+Electron+Vite 的前端大型模块化项目模板](https://github.com/biugle/web_base)
-* [基于 Docsify 的前端文档工具 Bio](https://github.com/pandaoh/bio-docsify)
+* [【推荐】基于 React+Electron+Vite 的前端大型模块化项目模板](https://github.com/biugle/web_base)
+* [基于 Vue3 的管理端](https://github.com/biugle/vue-admin)
+* [基于 Docsify 的前端文档工具 Bio](https://github.com/biugle/bio-docsify)
 * [Flutter 开发模板](https://github.com/pandaoh/flutter_base)
+* [基于 React+Vite 的毛坯房](https://github.com/pandaoh/react-view)
 
 ## 开发插件
 
-* [XCall 简单的事件派发器](https://github.com/pandaoh/js-xcall)
+* [XCall 简单的事件派发器](https://github.com/biugle/js-xcall)
 * [前端通用函数工具库](https://github.com/pandaoh/js-xxx)
 * [XHttp 基于 Axios 封装的请求库](https://github.com/pandaoh/js-xhttp)
 * [XAjax 原生 Ajax 封装](https://github.com/pandaoh/js-xajax)
 * [XFetch 原生 Fetch 封装](https://github.com/pandaoh/js-xfetch)
-* [XCmd 前端通用命令行工具-包含打包、下载、文件处理等](https://github.com/pandaoh/js-xcmd)
+* [XCmd 前端通用命令行工具-包含打包、下载、文件处理等](https://github.com/biugle/js-xcmd)
 * [Crypto 加密解密](https://github.com/brix/crypto-js)
-* [Flutter 请求库 Dio](https://github.com/pandaoh/flutter_dio_xhttp)
+* [Flutter 请求库 Dio](https://github.com/biugle/flutter_dio_xhttp)
 * [Flutter 事件派发](https://github.com/pandaoh/flutter_dart_xcall)
 * [json2csv](https://github.com/juanjoDiaz/json2csv)
 * [JsBarcode](https://github.com/lindell/JsBarcode)
@@ -61,6 +70,9 @@
 * [Vite](https://vitejs.cn/guide/)
 * [WebPack](https://www.webpackjs.com/)
 * [RollUp](https://www.rollupjs.com/)
+* [repress 文档](https://rspress.dev/zh/)
+* [Umi](https://umijs.org/)
+* [Dumi](https://d.umijs.org/)
 
 ## 其他
 
