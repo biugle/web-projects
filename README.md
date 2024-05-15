@@ -25,6 +25,7 @@
 ## 开发模板
 
 * [【推荐】基于 React+Electron+Vite 的前端大型模块化项目模板](https://github.com/biugle/web_base)
+* [大型模块化微前端客户端项目](https://github.com/biugle/web_mods_base)
 * [基于 Vue3 的管理端](https://github.com/biugle/vue-admin)
 * [基于 Docsify 的前端文档工具 Bio](https://github.com/biugle/bio-docsify)
 * [Flutter 开发模板](https://github.com/pandaoh/flutter_base)
