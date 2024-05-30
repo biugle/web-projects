@@ -9,6 +9,7 @@
 * [Deep 翻译](https://www.deepl.com/)
 * [前端工坊](https://www.javascript.fun/)
 * [各图标库查询 XIcons](https://www.xicons.org/#/zh-CN)
+* [SVG Viewer 转化简化工具](https://www.svgviewer.dev/)
 * [ShareIcon](https://www.shareicon.net/)
 * [jsdelivr](https://www.jsdelivr.com/)
 * [unpkg](https://www.unpkg.com/)
